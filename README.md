@@ -39,4 +39,5 @@ export DBPWD=pw
 ```
 ### Run the application, make sure it is visible in the browser
 ```docker run -p 8080:8080  -e DBHOST=$DBHOST -e DBPORT=$DBPORT -e  DBUSER=$DBUSER -e DBPWD=$DBPWD  my_app```
-### again pushing again again making some changesFri Oct 17 18:58:51 UTC 2025 – trigger build
+### again pushing again 
+Fri Oct 17 19:01:05 UTC 2025 – trigger build
